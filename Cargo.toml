@@ -1,0 +1,6 @@
+[package]
+name = "jo-runtime"
+version = "0.1.0"
+authors = ["Angus Thomsen <aksthomsen@gmail.com>"]
+
+[dependencies]
